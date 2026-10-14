@@ -1,0 +1,18 @@
+[33mcommit c710f96849414af9898253b817f3484de41d5316[m
+Author: areej <areejismael579@gmail.com>
+Date:   Wed Oct 14 02:21:04 2026 +0300
+
+    Update task notes
+
+[1mdiff --git a/swTasks.txt b/swTasks.txt[m
+[1mindex d2c577c..1b0b932 100644[m
+[1m--- a/swTasks.txt[m
+[1m+++ b/swTasks.txt[m
+[36m@@ -1,3 +1,4 @@[m
+ areej[m
+ yousef[m
+[31m-hoda[m
+\ No newline at end of file[m
+[32m+[m[32mhoda[m
+[32m+[m[32mLearning Git commits[m
+\ No newline at end of file[m
